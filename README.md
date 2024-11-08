@@ -1,4 +1,4 @@
-# Living-RPS-Game
+# Living RPS Game
 This code is a simulation of a Rock-Paper-Scissors game using the Pygame and NumPy library
 
 There are 2 main `class`:
